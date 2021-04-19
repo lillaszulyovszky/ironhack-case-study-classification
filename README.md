@@ -26,17 +26,29 @@ The data set consists of information on 18,000 current bank customers in the stu
 -  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
 -  There are also other potential areas of opportunities that the bank wants to understand from the data.
 
-**Features in the dataset the will help support the investigation?**
+**Modeling Plan:**
+iterative
 
+1st modeling:
+    - with all features
+    
+2nd modeling: 
+    - try without the quarter features
+    - turn numerical to categorical
 
-
-## Summary of Visual and Programmatic Assessment
+3rd modeling:
 
 ## Cleaning steps
+- drop 'customer_number' column
+- drop null values
 
-## Wrangingling steps
+## Summary of Findings from Visual Assessment
 
-## Summary of Findings
+We concluded we might need to go back to the cleaning steps and
+- drop the quarter columns
+- turn a couple of numerical columns (bank_accounts_open, credit_card_holds, homes_owned, household_size) to categorical (1 to 'one', etc)
+
+because it will cause noise in our model.
 
 ## Key Insights for Presentation
 
