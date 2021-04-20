@@ -50,5 +50,7 @@ We concluded we might need to go back to the cleaning steps and
 
 because it will cause noise in our model.
 
+ADD tableau link
+
 ## Key Insights for Presentation
 
