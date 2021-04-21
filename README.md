@@ -1,6 +1,5 @@
 # Ironhack Project - Classification Case Study
-
-## by Josephine Biedermann & Lilla Szulyovszky, April 2021
+by Josephine Biedermann & Lilla Szulyovszky, April 2021
 
 <Header picture>
     + one sentence summary of problem solved
@@ -8,26 +7,26 @@
 ## Table of content
 
 ## Methods & approach (project outline)
-**Insights to explore**
+    **Insights to explore**
 
--  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
--  There are also other potential areas of opportunities that the bank wants to understand from the data.
+    -  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
+    -  There are also other potential areas of opportunities that the bank wants to understand from the data.
 ### Flowchart
-**Modeling Plan:**
-iterative
+    **Modeling Plan:**
+    iterative
 
-1st modeling:
-    - with all features
-    
-2nd modeling: 
-    - try without the quarter features
-    - turn numerical to categorical
+    1st modeling:
+        - with all features
 
-3rd modeling:
+    2nd modeling: 
+        - try without the quarter features
+        - turn numerical to categorical
+
+    3rd modeling:
 ### Tools used
-- SQL : MyWorkbench - Link to SQL folder
-- Viz : Tableau / seaborn Jupyter Notebook
-- Code : Jupyter Notebook - Link to Code Folder
+    - SQL : MyWorkbench - Link to SQL folder
+    - Viz : Tableau / seaborn Jupyter Notebook
+    - Code : Jupyter Notebook - Link to Code Folder
 
 ## Data(set)
 
