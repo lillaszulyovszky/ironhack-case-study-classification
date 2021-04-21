@@ -1,8 +1,17 @@
 # Ironhack Project - Classification Case Study
+by Josephine Biedermann & Lilla Szulyovszky, April 2021
 
-## by Josephine Biedermann & Lilla Szulyovszky
+<Header picture>
+    + one sentence summary of problem solved
+    
+## Table of content
 
-## Dataset
+## Briefing/Problem statement
+    **Insights to explore**
+
+    -  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
+    -  There are also other potential areas of opportunities that the bank wants to understand from the data.
+## Data(set)
 
 The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
 
@@ -20,37 +29,44 @@ The data set consists of information on 18,000 current bank customers in the stu
 - Average Balance: Average account balance (across all accounts over time). Q1, Q2, Q3, and Q4
 - Balance: The average balance for each quarter in the last year
 
+Link to data set folder
 
-**Insights to explore**
+## Methods & approach (project outline)
 
--  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
--  There are also other potential areas of opportunities that the bank wants to understand from the data.
+### Flowchart
+    **Modeling Plan:**
+    iterative
 
-**Modeling Plan:**
-iterative
+    1st modeling:
+        - with all features
 
-1st modeling:
-    - with all features
-    
-2nd modeling: 
-    - try without the quarter features
-    - turn numerical to categorical
+    2nd modeling: 
+        - try without the quarter features
+        - turn numerical to categorical
 
-3rd modeling:
+    3rd modeling:
+### Tools used
+    - SQL : MyWorkbench - Link to SQL folder
+    - Viz : Tableau / seaborn Jupyter Notebook
+    - Code : Jupyter Notebook - Link to Code Folder
 
-## Cleaning steps
-- drop 'customer_number' column
-- drop null values
 
-## Summary of Findings from Visual Assessment
 
-We concluded we might need to go back to the cleaning steps and
-- drop the quarter columns
-- turn a couple of numerical columns (bank_accounts_open, credit_card_holds, homes_owned, household_size) to categorical (1 to 'one', etc)
+## Visualizations
 
-because it will cause noise in our model.
+Tableau & from notebook
 
-ADD tableau link
+Link to tableau
 
-## Key Insights for Presentation
+## Key Take Aways
+
+Top 1
+Top 2
+Top 3
+
+Link to presentation file
+
+
+Thank you for reading!
+If you have any questions, let us know.
 
