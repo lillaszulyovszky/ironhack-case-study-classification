@@ -6,28 +6,11 @@ by Josephine Biedermann & Lilla Szulyovszky, April 2021
     
 ## Table of content
 
-## Methods & approach (project outline)
+## Briefing/Problem statement
     **Insights to explore**
 
     -  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
     -  There are also other potential areas of opportunities that the bank wants to understand from the data.
-### Flowchart
-    **Modeling Plan:**
-    iterative
-
-    1st modeling:
-        - with all features
-
-    2nd modeling: 
-        - try without the quarter features
-        - turn numerical to categorical
-
-    3rd modeling:
-### Tools used
-    - SQL : MyWorkbench - Link to SQL folder
-    - Viz : Tableau / seaborn Jupyter Notebook
-    - Code : Jupyter Notebook - Link to Code Folder
-
 ## Data(set)
 
 The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
@@ -47,6 +30,27 @@ The data set consists of information on 18,000 current bank customers in the stu
 - Balance: The average balance for each quarter in the last year
 
 Link to data set folder
+
+## Methods & approach (project outline)
+
+### Flowchart
+    **Modeling Plan:**
+    iterative
+
+    1st modeling:
+        - with all features
+
+    2nd modeling: 
+        - try without the quarter features
+        - turn numerical to categorical
+
+    3rd modeling:
+### Tools used
+    - SQL : MyWorkbench - Link to SQL folder
+    - Viz : Tableau / seaborn Jupyter Notebook
+    - Code : Jupyter Notebook - Link to Code Folder
+
+
 
 ## Visualizations
 
