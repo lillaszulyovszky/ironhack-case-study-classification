@@ -2,7 +2,7 @@
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 <br/><br/>
 ## Prediciting if a bank customer accepts or declines an offer for a new credit card
-![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header" =250x250)
 
     
 ## Table of content
@@ -31,7 +31,7 @@ Further project details such as deliverables can be found [here](https://github.
 Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
 [Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) 
 
-![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true)
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true =250x250)
 
 For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
 
@@ -58,7 +58,7 @@ encoding numerical features to categorical ones
 **- iteration 5 (X_i5)**
 using KNN on the i3
 
-![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true)
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true =250x250)
 
 Tools
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
