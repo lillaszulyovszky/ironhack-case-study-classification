@@ -54,15 +54,15 @@ MAYBE GRAPHS here??? instead of list
 Flowchart
 
 Tools
- - Database : MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
- - Vizualizations : Tableau / seaborn / matplotlib
- - Code : Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
+ - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - **Vizualizations:** Tableau / seaborn / matplotlib
+ - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
 
 ## Visualizations
 
 Tableau & from notebook
 
-[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes)
+[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
 Link to presentation
 
 ## Key Take Aways
