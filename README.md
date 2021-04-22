@@ -2,8 +2,7 @@
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 <br/><br/>
 ## Prediciting if a bank customer accepts or declines an offer for a new credit card
-![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header" =250x250)
-
+<img src="https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true" width="200">
     
 ## Table of content
 
