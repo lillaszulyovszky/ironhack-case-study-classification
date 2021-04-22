@@ -3,7 +3,7 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
 <br/><br/>
 ## Prediciting if a bank customer accepts or declines an offer for a new credit card
 
-![Classification Case Study](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true")
+![Classification Case Study](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 
 ## Table of content
 
