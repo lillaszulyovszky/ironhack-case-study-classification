@@ -73,8 +73,6 @@ Link to presentation
   - avg balance
   - income level
   - reward
-
-<br/><br/><br/>
 # 
 
 **Thank you for reading!** <br/>
