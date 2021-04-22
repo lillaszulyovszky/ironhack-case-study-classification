@@ -63,19 +63,19 @@ Tools
 Tableau & from notebook
 
 [Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes)
+Link to presentation
 
 ## Key Take Aways
 
-### Our model can predict a customers accepting or declining the credi card offer with an accuracy of 84%
-### We suspect the following features to impact the customers decision to accept the most:
+### 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
+### 2. We suspect the following features to impact the customers decision to accept the most:
   - mailer type
   - avg balance
   - income level
   - reward
 
 <br/><br/><br/>
-Link to presentation file
-<br/><br/><br/>
+# 
 
 **Thank you for reading!** <br/>
 If you have any questions, please reach out to us.<br/><br/>
