@@ -69,10 +69,10 @@ Tools
 
 ## Visualizations
 
-Tableau & from notebook
+Tableau
 
-[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
-Link to presentation
+[Tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
+[Presentation](https://slides.com/josephinebiedermann/deck)
 
 ## Key Take Aways
 
