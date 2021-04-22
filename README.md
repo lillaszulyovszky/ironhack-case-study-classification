@@ -24,7 +24,7 @@ Use the given data set to find out what characteristics impact the customers dec
 **Problem:**
 Can we predict if our customer accepts or declines the credit card offer?
 
-## Data(set)
+## Data
 
 The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
 
@@ -44,9 +44,7 @@ The data set consists of information on 18,000 current bank customers in the stu
 
 [Link to data set folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets)
 
-## Methods & approach (project outline)
-
-### Process & Tools
+## Process & Tools
 
 Flowchart
 
