@@ -1,10 +1,9 @@
 # Ironhack Project - Classification Case Study :credit_card: :moneybag: :euro:
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
+<br/><br/>
+## Prediciting if a bank customer accepts or declines an offer for a new credit card
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 
-<p align="center">
-    ![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
-Topic Case Study: Prediciting if a bank customer accepts or declines an offer for a new credit card.
-</p>
     
 ## Table of content
 
@@ -29,29 +28,19 @@ Further project details such as deliverables can be found [here](https://github.
 
 ## Data
 
-The data set consists of information on 18,000 current bank customers with the following features:
+The data set consists of information on 18,000 current bank customers. **We look at the dtat this is what we got :**
 
-MAYBE GRAPHS here??? instead of list
+TABLEAU Screenhot
 
-- Customer Number: A sequential number assigned to the customers (this column is hidden and excluded – this unique identifier will not be used directly).
-- Offer Accepted: Did the customer accept (Yes) or reject (No) the offer. Reward: The type of reward program offered for the card.
-- Mailer Type: Letter or postcard.
-- Income Level: Low, Medium, or High.
-- Bank Accounts Open: How many non-credit-card accounts are held by the customer.
-- Overdraft Protection: Does the customer have overdraft protection on their checking account(s) (Yes or No).
-- Credit Rating: Low, Medium, or High.
-- Credit Cards Held: The number of credit cards held at the bank.
-- Homes Owned: The number of homes owned by the customer.
-- Household Size: The number of individuals in the family.
-- Own Your Home: Does the customer own their home? (Yes or No).
-- Average Balance: Average account balance (across all accounts over time). Q1, Q2, Q3, and Q4
-- Balance: The average balance for each quarter in the last year
+For further detail on all features, please referr to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
 
 [Link to data set folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets)
 
 ## Process & Tools
 
 Flowchart
+
+Bulltes on the process steps
 
 Tools
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
