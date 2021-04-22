@@ -69,7 +69,7 @@ Tools
 
 ## Visualizations
 
-Tableau
+For further visualisations check out our Tableau workbook or the presentation we've done below.
 
 [Tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
 [Presentation](https://slides.com/josephinebiedermann/deck)
