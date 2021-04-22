@@ -6,15 +6,12 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
     + one sentence summary of problem solved
     
 ## Table of content
-<ul>
-<li><a ref="#eda">1. [Project brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)</a></li>
-<li><a ref="#cleaning">2. [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)</a></li>
-<li><a ref="#prep">3. [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)</a></li>
-<li><a ref="#modelling">4. [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)</a></li>
-<li><a ref="#modelling">5. [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)</a></li>
-</ul>
 
-
+- [Project brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
+- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
+- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
+- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
 ## Project brief
 **Scenario:**
