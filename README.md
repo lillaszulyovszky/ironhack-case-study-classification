@@ -1,5 +1,5 @@
 # Ironhack Project - Classification Case Study
-by Josephine Biedermann & Lilla Szulyovszky, April 2021
+by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 
 ![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 <Header picture>
