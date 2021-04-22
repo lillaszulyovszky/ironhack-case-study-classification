@@ -66,14 +66,14 @@ Tableau & from notebook
 
 ## Key Take Aways
 
-#### Our model can predict a customers accepting or declining the credi card offer with an accuracy of 84%
-<br/><br/>
-#### We suspect the following features to impact the customers decision to accept the most:
-    - mailer type
-    - avg balance
-    - income level
-    - reward
+### Our model can predict a customers accepting or declining the credi card offer with an accuracy of 84%
+### We suspect the following features to impact the customers decision to accept the most:
+  - mailer type
+  - avg balance
+  - income level
+  - reward
 
+<br/><br/><br/>
 Link to presentation file
 <br/><br/><br/>
 
