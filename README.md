@@ -22,7 +22,7 @@ We are given data from 18.000 of our customers and our boss wants us to work out
 Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
 
 **Problem:**
-Can we predict if our customer accepts or declines our credit card offer?
+Can we predict if our customer accepts or declines the credit card offer?
 
 ## Data(set)
 
@@ -72,6 +72,6 @@ Top 3
 Link to presentation file
 
 
-Thank you for reading!
-If you have any questions, let us know :slightly_smiling_face:
-
+Thank you for reading! <br/>
+If you have any questions, let us know.<br/><br/>
+Team :mage_woman:
