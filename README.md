@@ -25,11 +25,13 @@ Use the given data set to find out what characteristics impact the customers dec
 **Problem:**
 Can we predict if our customer accepts or declines the credit card offer?
 
-Further project details such as deliverables - [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
+Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
 
 ## Data
 
-The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
+The data set consists of information on 18,000 current bank customers with the following features:
+
+MAYBE GRAPHS here??? instead of list
 
 - Customer Number: A sequential number assigned to the customers (this column is hidden and excluded – this unique identifier will not be used directly).
 - Offer Accepted: Did the customer accept (Yes) or reject (No) the offer. Reward: The type of reward program offered for the card.
@@ -56,8 +58,6 @@ Tools
  - Vizualizations : Tableau / seaborn / matplotlib
  - Code : Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
 
-
-
 ## Visualizations
 
 Tableau & from notebook
@@ -66,9 +66,13 @@ Tableau & from notebook
 
 ## Key Take Aways
 
-Top 1
-Top 2
-Top 3
+#### Our model can predict a customers accepting or declining the credi card offer with an accuracy of 84%
+<br/><br/>
+#### We suspect the following features to impact the customers decision to accept the most:
+    - mailer type
+    - avg balance
+    - income level
+    - reward
 
 Link to presentation file
 <br/><br/><br/>
