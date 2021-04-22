@@ -1,6 +1,7 @@
 # Ironhack Project - Classification Case Study
 by Josephine Biedermann & Lilla Szulyovszky, April 2021
 
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 <Header picture>
     + one sentence summary of problem solved
     
