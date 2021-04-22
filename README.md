@@ -6,12 +6,24 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
     + one sentence summary of problem solved
     
 ## Table of content
+<ul>
+<li><a ref="#eda">1. Exploratory Data Analysis</a></li>
+<li><a ref="#cleaning">2. Cleaning</a></li>
+<li><a ref="#prep">3. Preprocessing</a></li>
+<li><a ref="#modelling">4. Modelling</a></li>
+</ul>
 
 ## Briefing/Problem statement
-    **Insights to explore**
+**Scenario:**
+We are risk analysts employed at a bank. Our team is focusing on credit card services.
+We are given data from 18.000 of our customers and our boss wants us to work out how we can improve our credit card marketing campaign.
 
-    -  The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
-    -  There are also other potential areas of opportunities that the bank wants to understand from the data.
+**Challenge:**
+Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
+
+**Problem:**
+Can we predict if our customer accepts or declines our credit card offer?
+
 ## Data(set)
 
 The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
