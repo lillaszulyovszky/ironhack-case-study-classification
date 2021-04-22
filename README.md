@@ -7,13 +7,14 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
     
 ## Table of content
 <ul>
-<li><a ref="#eda">1. Exploratory Data Analysis</a></li>
-<li><a ref="#cleaning">2. Cleaning</a></li>
-<li><a ref="#prep">3. Preprocessing</a></li>
-<li><a ref="#modelling">4. Modelling</a></li>
+<li><a ref="#eda">1. Project brief</a></li>
+<li><a ref="#cleaning">2. Data</a></li>
+<li><a ref="#prep">3. Process & tools</a></li>
+<li><a ref="#modelling">4. Visualization</a></li>
+<li><a ref="#modelling">5. Key take aways</a></li>
 </ul>
 
-## Briefing/Problem statement
+## Project brief
 **Scenario:**
 We are risk analysts employed at a bank. Our team is focusing on credit card services.
 We are given data from 18.000 of our customers and our boss wants us to work out how we can improve our credit card marketing campaign.
@@ -23,6 +24,8 @@ Use the given data set to find out what characteristics impact the customers dec
 
 **Problem:**
 Can we predict if our customer accepts or declines the credit card offer?
+
+Further project details such as deliverables - [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
 
 ## Data
 
