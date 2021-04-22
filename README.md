@@ -22,25 +22,43 @@ We are given data from 18.000 of our customers and our boss wants us to work out
 Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
 
 **Problem:**
-Can we build a model that predicts if our customer accepts or declines the credit card offer?<br/><br/>
+Can we build a machine learning model that predicts if our customer accepts or declines the credit card offer?<br/><br/>
 
 Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
 
 ## Data
 
-The data set consists of information on 18,000 current bank customers. **We look at the dtat this is what we got :**
+Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
+[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) 
 
-TABLEAU Screenhot
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true)
 
-For further detail on all features, please referr to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
-
-[Link to data set folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets)
+For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
 
 ## Process & Tools
 
-Flowchart
+**Process**
+Our ways of working included an iterative/agile approach circling through the following steps:
+- Github: set up our Github Repo to collaborate on. We did 104 commits in 4 days. 
+- Trello: set up our Trello board to help us keep sane and reprioritise daily.
+- SQL: started with the independent task of completing the SQL Queries
+- EDA: assessment of dataframe to prepare for cleaning
+- Data cleaning & wrangling in Python: drop 'customer_number' column, drop null values, convert float columns to int
+- Prepocessing: 3 methods - Normalizer, Dummies and SMOTE
+- Machine Learning Model: using scikit learn
+**- iteration 1 (X)**
+In our first iteration we only used preprocessing and encoding 
+and we used this as a benchmark for the following iterations as a comparison
+**- iteration 2 (X_i2)**
+SMOKE sampling to improve the imbalance of the target
+**- iteration 3 (X_i3)**
+dropping quarterly balance columns to reduce noise
+**- iteration 4 (X_i4)**
+encoding numerical features to categorical ones
+**- iteration 5 (X_i5)**
+using KNN on the i3
 
-Bulltes on the process steps
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true)
 
 Tools
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
