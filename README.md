@@ -14,6 +14,8 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
 <li><a ref="#modelling">5. Key take aways</a></li>
 </ul>
 
+[Project brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+
 ## Project brief
 **Scenario:**
 We are risk analysts employed at a bank. Our team is focusing on credit card services.
