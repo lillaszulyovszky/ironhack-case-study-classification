@@ -30,7 +30,7 @@ Further project details such as deliverables can be found [here](https://github.
 
 Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
-![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true)
+![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_dashboard.png?raw=true)
 <br/>
 <br/>For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
 
