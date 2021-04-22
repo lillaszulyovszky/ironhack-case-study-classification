@@ -28,11 +28,11 @@ Further project details such as deliverables can be found [here](https://github.
 
 ## Data
 
-Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/>
+Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
 ![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true)
-[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) 
-For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
+ <br/>[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) 
+<br/>For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
 
 ## Process & Tools
 
@@ -42,16 +42,15 @@ Our ways of working included an iterative/agile approach circling through the fo
 
 ![workflow](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true")
 
-- Github: set up our Github Repo to collaborate on. We did 104 commits in 4 days. <br/>
-- Trello: set up our Trello board to help us keep sane and reprioritise daily.<br/>
-- SQL: started with the independent task of completing the SQL Queries<br/>
-- EDA: assessment of dataframe to prepare for cleaning<br/>
-- Data cleaning & wrangling in Python: drop 'customer_number' column, drop null values, convert float columns to int<br/>
-- Prepocessing: 3 methods - Normalizer, Dummies and SMOTE<br/>
-- Machine Learning Model: using scikit learn<br/>
+- **Github:** set up our Github repo to collaborate on. We did 104 commits in 4 days. <br/>
+- **Trello:** set up our Trello board to help us keep sane and reprioritise daily.<br/>
+- **SQL:** started with the independent task of completing the SQL queries<br/>
+- **EDA:** assessment of dataframe to prepare for cleaning<br/>
+- **Data cleaning & wrangling in Python:** drop 'customer_number' column, drop null values, convert float columns to int<br/>
+- **Prepocessing:** 3 methods - Normalizer, Dummies and SMOTE<br/>
+- **Machine Learning Model:** using scikit learn<br/>
 **- iteration 1 (X)**<br/>
-In our first iteration we only used preprocessing and encoding <br/>
-and we used this as a benchmark for the following iterations as a comparison<br/>
+In our first iteration we only used preprocessing and encoding and we used this as a benchmark for the following iterations as a comparison<br/>
 **- iteration 2 (X_i2)**<br/>
 SMOKE sampling to improve the imbalance of the target<br/>
 **- iteration 3 (X_i3)**<br/>
@@ -61,7 +60,7 @@ encoding numerical features to categorical ones<br/>
 **- iteration 5 (X_i5)**<br/>
 using KNN on the i3<br/>
 
-Tools
+**Tools**
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
  - **Vizualizations:** Tableau / seaborn / matplotlib
  - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
