@@ -1,4 +1,4 @@
-# Ironhack Project - Classification Case Study
+# Ironhack Project - Classification Case Study :credit_card: :moneybag: :euro:
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 
 ![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
@@ -42,26 +42,18 @@ The data set consists of information on 18,000 current bank customers in the stu
 - Average Balance: Average account balance (across all accounts over time). Q1, Q2, Q3, and Q4
 - Balance: The average balance for each quarter in the last year
 
-Link to data set folder
+[Link to data set folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets)
 
 ## Methods & approach (project outline)
 
-### Flowchart
-    **Modeling Plan:**
-    iterative
+### Process & Tools
 
-    1st modeling:
-        - with all features
+Flowchart
 
-    2nd modeling: 
-        - try without the quarter features
-        - turn numerical to categorical
-
-    3rd modeling:
-### Tools used
-    - SQL : MyWorkbench - Link to SQL folder
-    - Viz : Tableau / seaborn Jupyter Notebook
-    - Code : Jupyter Notebook - Link to Code Folder
+Tools
+ - Database : MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - Vizualizations : Tableau / seaborn / matplotlib
+ - Code : Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
 
 
 
@@ -69,7 +61,7 @@ Link to data set folder
 
 Tableau & from notebook
 
-Link to tableau
+[Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes)
 
 ## Key Take Aways
 
@@ -81,5 +73,5 @@ Link to presentation file
 
 
 Thank you for reading!
-If you have any questions, let us know.
+If you have any questions, let us know :slightly_smiling_face:
 
