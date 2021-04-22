@@ -3,7 +3,7 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
 
 ![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 <Header picture>
-    + one sentence summary of problem solved
+    Prediciting if a bank customer accepts or declines an offer for a new credit card?
     
 ## Table of content
 
@@ -22,7 +22,7 @@ We are given data from 18.000 of our customers and our boss wants us to work out
 Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
 
 **Problem:**
-Can we predict if our customer accepts or declines the credit card offer?<br/>
+Can we build a model that predicts if our customer accepts or declines the credit card offer?<br/><br/>
 
 Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
 
