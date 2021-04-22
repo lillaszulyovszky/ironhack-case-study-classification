@@ -70,8 +70,8 @@ Top 2
 Top 3
 
 Link to presentation file
+<br/><br/><br/>
 
-
-Thank you for reading! <br/>
-If you have any questions, let us know.<br/><br/>
+**Thank you for reading!** <br/>
+If you have any questions, please reach out to us.<br/><br/>
 Team :mage_woman:
