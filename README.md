@@ -7,21 +7,21 @@ by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szuly
     
 ## Table of content
 
-- [Project brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
 - [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
 - [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
-## Project brief
-**Scenario:**
+## Project Brief
+### Scenario:
 We are risk analysts employed at a bank. Our team is focusing on credit card services.
 We are given data from 18.000 of our customers and our boss wants us to work out how we can improve our credit card marketing campaign.
 
-**Challenge:**
+### Challenge:
 Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
 
-**Problem:**
+### Problem:
 Can we predict if our customer accepts or declines the credit card offer?
 
 Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
