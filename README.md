@@ -1,8 +1,9 @@
 # Ironhack Project - Classification Case Study :credit_card: :moneybag: :euro:
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 
+
+![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 <p align="center">
-    ![Alt text](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/Readme_header.png?raw=true "Header")
 Topic Case Study: Prediciting if a bank customer accepts or declines an offer for a new credit card.
 </p>
     
