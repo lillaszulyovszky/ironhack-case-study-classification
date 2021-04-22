@@ -28,7 +28,8 @@ Further project details such as deliverables can be found [here](https://github.
 
 ## Data
 
-Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:
+Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/>
+To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
 [Link to tableau](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) 
 ![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_screenshot.png?raw=true)
 
@@ -39,6 +40,8 @@ For further details on all features, please refer to the [notebook](https://gith
 **Process**
 
 Our ways of working included an iterative/agile approach circling through the following steps:
+
+![workflow](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true")
 
 - Github: set up our Github Repo to collaborate on. We did 104 commits in 4 days. <br/>
 - Trello: set up our Trello board to help us keep sane and reprioritise daily.<br/>
@@ -58,8 +61,6 @@ dropping quarterly balance columns to reduce noise<br/>
 encoding numerical features to categorical ones<br/>
 **- iteration 5 (X_i5)**<br/>
 using KNN on the i3<br/>
-
-![workflow](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true")
 
 Tools
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
