@@ -72,7 +72,7 @@ For further visualisations check out our Tableau workbook or the presentation we
 ### 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
 ### 2. We suspect the following features to impact the customers decision to accept the most:
   - mailer type
-  - avg balance
+  - credit rating
   - income level
   - reward
 # 
